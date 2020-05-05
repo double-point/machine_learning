@@ -7,7 +7,7 @@
 [大话系列 | 贝叶斯—实战项目](https://mp.weixin.qq.com/s?__biz=MzI5MjYwNTU5NQ==&mid=2247484910&idx=1&sn=8d8178218612ce3c99a02c6360a72113&chksm=ec7f9e1adb08170cf7ebc05f30e0b54aa8c8fe4092be33cc8c533a642b5da377f0bdaf92152d&token=94257019&lang=zh_CN#rd)
 <br>
 
-3. svm实战（）<br>
+3. svm实战（乳腺癌诊断分类）<br>
 <br>
 
 4. EM实战 <br>
