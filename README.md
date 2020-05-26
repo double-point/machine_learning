@@ -22,9 +22,7 @@
 
 ### 大话机器学习算法--持续更新中
 1. 决策树<br>
-[大话系列 | 决策树（上）](https://mp.weixin.qq.com/s?__biz=MzI5MjYwNTU5NQ==&mid=2247484478&idx=1&sn=da568b74c409382ec264b07fb5177450&chksm=ec7f9fcadb0816dcb33cd1646e774e42f577a718a71b2442efd4ad5e30a4ae59ea4ff69b6359&token=1213245104&lang=zh_CN#rd)
-<br>
-
+[大话系列 | 决策树（上）](https://mp.weixin.qq.com/s?__biz=MzI5MjYwNTU5NQ==&mid=2247484478&idx=1&sn=da568b74c409382ec264b07fb5177450&chksm=ec7f9fcadb0816dcb33cd1646e774e42f577a718a71b2442efd4ad5e30a4ae59ea4ff69b6359&token=1213245104&lang=zh_CN#rd)<br>
 [大话系列 | 决策树（下）](https://mp.weixin.qq.com/s?__biz=MzI5MjYwNTU5NQ==&mid=2247484530&idx=1&sn=42edc529f35abcb99271baf7b6bd3324&chksm=ec7f9f86db08169038d445eb786c446a78a80737c060640ecf351e32faf62ee242f333690611&token=1213245104&lang=zh_CN#rd)
 <br>
 
@@ -33,15 +31,11 @@
 <br>
 
 3. K近邻<br>
-[大话系列 | KNN（上）](https://mp.weixin.qq.com/s?__biz=MzI5MjYwNTU5NQ==&mid=2247484972&idx=1&sn=e30a90830cedbdc62fa746a4aef8ebde&chksm=ec7f9dd8db0814ce10303a8de8dbef5bb797b930bd85ca0853e8bb74590599930c06e930edb5&token=1213245104&lang=zh_CN#rd)
-<br>
-
+[大话系列 | KNN（上）](https://mp.weixin.qq.com/s?__biz=MzI5MjYwNTU5NQ==&mid=2247484972&idx=1&sn=e30a90830cedbdc62fa746a4aef8ebde&chksm=ec7f9dd8db0814ce10303a8de8dbef5bb797b930bd85ca0853e8bb74590599930c06e930edb5&token=1213245104&lang=zh_CN#rd)<br>
 [大话系列 | KNN（下）](https://mp.weixin.qq.com/s?__biz=MzI5MjYwNTU5NQ==&mid=2247485164&idx=1&sn=969ced11502db84848226bc394eb0157&chksm=ec7f9d18db08140e2e520de02431f1c7d8f409c417640a6036c73b9a7ce0b676c6e32b55e867&token=1213245104&lang=zh_CN#rd)
 <br>
 
 4. 支持向量机<br>
-[大话系列 | SVM（上）](https://mp.weixin.qq.com/s?__biz=MzI5MjYwNTU5NQ==&mid=2247485258&idx=1&sn=f1b42279b843868bd83858ad69a0c7f2&chksm=ec7f9cbedb0815a8efbe75100d7a316843644e89ca13ce9ff56b48760f28abcfd9eca70a3647&token=1213245104&lang=zh_CN#rd)
-<br>
-
+[大话系列 | SVM（上）](https://mp.weixin.qq.com/s?__biz=MzI5MjYwNTU5NQ==&mid=2247485258&idx=1&sn=f1b42279b843868bd83858ad69a0c7f2&chksm=ec7f9cbedb0815a8efbe75100d7a316843644e89ca13ce9ff56b48760f28abcfd9eca70a3647&token=1213245104&lang=zh_CN#rd)<br>
 [大话系列 | SVM（下）](https://mp.weixin.qq.com/s?__biz=MzI5MjYwNTU5NQ==&mid=2247485286&idx=1&sn=a5a3cd406c8892a3e46e809e36c6fbb0&chksm=ec7f9c92db081584fadaf572464a0d3f05644447c6ba717e8804270d422bde67bc4c83736aff&token=1213245104&lang=zh_CN#rd)
 <br>
